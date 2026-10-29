@@ -1,0 +1,13 @@
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello, World!" << endl;
+    cout << "My Name is Rizvani." << endl;
+    cout << "I am a BSCS First Semester Student." << endl;
+    cout << "Welcome to C++ Programming!" << endl;
+
+    return 0;
+}
